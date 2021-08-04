@@ -1,0 +1,6 @@
+C:\Users\ADM\Desktop\At01\At01\bin\Debug\At01.exe.config
+C:\Users\ADM\Desktop\At01\At01\bin\Debug\At01.exe
+C:\Users\ADM\Desktop\At01\At01\bin\Debug\At01.pdb
+C:\Users\ADM\Desktop\At01\At01\obj\Debug\At01.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\At01\At01\obj\Debug\At01.exe
+C:\Users\ADM\Desktop\At01\At01\obj\Debug\At01.pdb

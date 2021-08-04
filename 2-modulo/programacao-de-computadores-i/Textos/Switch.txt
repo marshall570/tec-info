@@ -1,0 +1,45 @@
+					=========================
+					|	Operador Ternário   |
+					=========================
+
+Forma simplificada e prática de se utilizar
+uma decisão.
+
+SINTAXE:
+<TesteLógico>?instruçãoTrue:instruçãoFalse;
+
+if(mod==0){
+    return("Par");}
+else {
+	return("Ímpar");}
+
+
+QUANDO USAR?  -----> Return(mod==0?"Par":"Impar"); <CERTO>
+					 Return mod==0?"par":"Impar";  <ERRADO>
+
+------------------------------------------------------------
+
+					=======================
+					|	Comando SWITCH    |
+					=======================
+
+É utilizado quando existe uma cadeia de desvio de fluxo
+muito grande.
+
+SINTAXE:
+Switch(Opcao){
+	case 1:
+		instruções 1;
+		break;
+	case 2:
+		instruções 2;
+		break;
+	case 3:
+		instruções 3;
+		break;
+    default:
+		instruções;
+}
+
+<COLOQUE O MARDITU "BREAK", SEU IXPERTINHO>
+\* EU QUERO ENFIAR MINHA CABEÇA NO SEU CÚ" - Beatriz Cristina, 2018 *\

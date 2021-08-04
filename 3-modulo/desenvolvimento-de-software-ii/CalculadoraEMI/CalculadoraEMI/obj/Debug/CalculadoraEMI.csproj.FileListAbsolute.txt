@@ -1,0 +1,10 @@
+C:\Users\ADM\Desktop\CalculadoraEMI\CalculadoraEMI\bin\Debug\CalculadoraEMI.exe.config
+C:\Users\ADM\Desktop\CalculadoraEMI\CalculadoraEMI\bin\Debug\CalculadoraEMI.exe
+C:\Users\ADM\Desktop\CalculadoraEMI\CalculadoraEMI\bin\Debug\CalculadoraEMI.pdb
+C:\Users\ADM\Desktop\CalculadoraEMI\CalculadoraEMI\obj\Debug\CalculadoraEMI.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\CalculadoraEMI\CalculadoraEMI\obj\Debug\CalculadoraEMI.Frm_Calc.resources
+C:\Users\ADM\Desktop\CalculadoraEMI\CalculadoraEMI\obj\Debug\CalculadoraEMI.Properties.Resources.resources
+C:\Users\ADM\Desktop\CalculadoraEMI\CalculadoraEMI\obj\Debug\CalculadoraEMI.csproj.GenerateResource.cache
+C:\Users\ADM\Desktop\CalculadoraEMI\CalculadoraEMI\obj\Debug\CalculadoraEMI.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\CalculadoraEMI\CalculadoraEMI\obj\Debug\CalculadoraEMI.exe
+C:\Users\ADM\Desktop\CalculadoraEMI\CalculadoraEMI\obj\Debug\CalculadoraEMI.pdb

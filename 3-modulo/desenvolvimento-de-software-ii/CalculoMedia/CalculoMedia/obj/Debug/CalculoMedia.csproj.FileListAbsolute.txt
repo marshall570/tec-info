@@ -1,0 +1,10 @@
+C:\Users\ADM\Desktop\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.exe.config
+C:\Users\ADM\Desktop\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.exe
+C:\Users\ADM\Desktop\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.pdb
+C:\Users\ADM\Desktop\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.FrmCalcMedia.resources
+C:\Users\ADM\Desktop\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.Properties.Resources.resources
+C:\Users\ADM\Desktop\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.csproj.GenerateResource.cache
+C:\Users\ADM\Desktop\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.exe
+C:\Users\ADM\Desktop\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.pdb

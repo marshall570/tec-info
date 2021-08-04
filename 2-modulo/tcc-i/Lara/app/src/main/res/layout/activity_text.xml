@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ConstraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity_text">
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/toolbar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@+id/txt_tit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="HISTÓRIA"
+        android:textColor="@color/colorAccent"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:fontFamily="serif"
+        app:layout_constraintBottom_toBottomOf="@+id/include"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txt_tit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:paddingLeft="0dp"
+        android:text="GUERRA FRIA"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimaryLight"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:typeface="serif"
+        app:layout_constraintBottom_toTopOf="@+id/scrollView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/include" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="78dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_tit">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="A Guerra Fria, que teve seu início logo após a Segunda Guerra Mundial (1945) e a extinção da União Soviética (1991),  é a designação atribuída ao período histórico de disputas estratégicas e conflitos indiretos entre os Estados Unidos e a União Soviética, disputando a hegemonia política, econômica e militar no mundo.
+
+\n\nA União Soviética buscava implantar o socialismo em outros países para que pudessem expandir a igualdade social, baseado na economia planificada, partido único (Partido Comunista), igualdade social e falta de democracia. Enquanto os Estados Unidos, a outra potência mundial, defendia a expansão do sistema capitalista, baseado na economia de mercado, sistema democrático e propriedade privada.
+
+\n\nCom o fim da Segunda Guerra Mundial, o contraste entre o capitalismo e socialismo era predominante entre a política, ideologia e sistemas militares. Apesar da rivalidade e tentativa de influenciar outros países, os Estados Unidos não conflitou a União Soviética (e vice-versa) com armamentos, pois os dois países tinham em posse grande quantidade de armamento nuclear,  e um conflito armado direto significaria o fim dos dois países e, possivelmente, da vida em nosso planeta.  Porém ambos acabaram alimentando conflitos em outros países como, por exemplo, na Coreia e no Vietnã
+
+\n\nCom o objetivo de reforçar o capitalismo, o presidente dos Estados Unidos, Harry Truman, lança o Plano Marshal, que era um oferecimento de empréstimos com juros baixos e investimentos para que os países arrasados na Segunda Guerra Mundial pudessem se recuperar economicamente. A partir desta estratégia a União Soviética criou, em 1949, o Comecon, que era uma espécie de contestação ao Plano Marshall que impedia seus aliados socialistas de se interessar ao favorecimento proposto pelo então inimigo político.
+
+\n\nA Alemanha por sua vez, aderiu o Plano Marshall para se restabelecer, o que fez com que a União Soviética bloqueasse todas as rotas terrestres que davam acesso a Berlim. Desta forma, a Alemanha, apoiada pelos Estados Unidos, abastecia sua parte de Berlim por vias aéreas provocando maior insatisfação soviética e o que provocou  a divisão da Alemanha em Alemanha Oriental e Alemanha Ocidental.
+
+\n\nEm 1949, os Estados Unidos juntamente com seus aliados criam a Otan (Organização do Tratado do Atlântico Norte) que tinha como objetivo manter alianças militares para que estes pudessem se proteger em casos de ataque. Em contra partida, a União Soviética assina com seus aliados o Pacto de Varsóvia que também tinha como objetivo a união das forças militares de toda a Europa Oriental.
+
+\n\nEntre os aliados da Otan destacam-se: Estados Unidos, Canadá, Grécia, Bélgica, Itália, França, Alemanha Ocidental, Holanda, Áustria, Dinamarca, Inglaterra, Suécia, Espanha. E os aliados do Pacto de Varsóvia destacam-se: União Soviética, Polônia, Cuba, Alemanha Oriental, China, Coreia do Norte, Iugoslávia, Tchecoslováquia, Albânia, Romênia.
+
+\n\nA falta de democracia, o atraso econômico e a crise nas repúblicas soviéticas acabaram por acelerar a crise do socialismo no final da década de 1980. Em 1989 cai o Muro de Berlim e as duas Alemanhas são reunificadas.
+
+\n\nNo começo da década de 1990, o então presidente da União Soviética Gorbachev começou a acelerar o fim do socialismo naquele país e nos aliados. Com reformas econômicas, acordos com os EUA e mudanças políticas, o sistema foi se enfraquecendo. Era o fim de um período de embates políticos, ideológicos e militares. O capitalismo vitorioso, aos poucos, iria sendo implantado nos países socialistas.
+"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                android:typeface="sans" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btn_rec"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="24dp"
+        android:background="@color/colorAccent"
+        android:text="RECOMENDAÇÕES"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:typeface="sans"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btn_act"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollView2" />
+
+    <Button
+        android:id="@+id/btn_act"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="24dp"
+        android:background="@color/colorPrimaryLight"
+        android:text="ATIVIDADES"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:typeface="sans"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btn_rec"
+        app:layout_constraintTop_toBottomOf="@+id/scrollView2" />
+
+</android.support.constraint.ConstraintLayout>

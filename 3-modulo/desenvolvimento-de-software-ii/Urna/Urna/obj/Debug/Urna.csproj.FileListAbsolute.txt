@@ -1,0 +1,7 @@
+C:\Users\ADM\Desktop\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\ADM\Desktop\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\ADM\Desktop\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\ADM\Desktop\Urna\Urna\obj\Debug\Urna.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\Urna\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\ADM\Desktop\Urna\Urna\obj\Debug\Urna.pdb

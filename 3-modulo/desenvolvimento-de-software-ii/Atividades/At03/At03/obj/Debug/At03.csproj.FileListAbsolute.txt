@@ -1,0 +1,6 @@
+C:\Users\ADM\Desktop\At03\At03\bin\Debug\At03.exe.config
+C:\Users\ADM\Desktop\At03\At03\bin\Debug\At03.exe
+C:\Users\ADM\Desktop\At03\At03\bin\Debug\At03.pdb
+C:\Users\ADM\Desktop\At03\At03\obj\Debug\At03.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\At03\At03\obj\Debug\At03.exe
+C:\Users\ADM\Desktop\At03\At03\obj\Debug\At03.pdb

@@ -1,0 +1,6 @@
+C:\Users\ADM\Desktop\Ex7\Ex7\bin\Debug\Ex7.exe.config
+C:\Users\ADM\Desktop\Ex7\Ex7\bin\Debug\Ex7.exe
+C:\Users\ADM\Desktop\Ex7\Ex7\bin\Debug\Ex7.pdb
+C:\Users\ADM\Desktop\Ex7\Ex7\obj\Debug\Ex7.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\Ex7\Ex7\obj\Debug\Ex7.exe
+C:\Users\ADM\Desktop\Ex7\Ex7\obj\Debug\Ex7.pdb

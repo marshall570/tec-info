@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraEMI", "CalculadoraEMI\CalculadoraEMI.csproj", "{146A0EA0-CBCD-4635-B558-3FDBC3520F99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{146A0EA0-CBCD-4635-B558-3FDBC3520F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146A0EA0-CBCD-4635-B558-3FDBC3520F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146A0EA0-CBCD-4635-B558-3FDBC3520F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146A0EA0-CBCD-4635-B558-3FDBC3520F99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83B76B03-DBCC-4183-910C-3806F08482AB}
+	EndGlobalSection
+EndGlobal

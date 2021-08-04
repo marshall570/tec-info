@@ -1,0 +1,10 @@
+C:\Users\ADM\Desktop\Conversor\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\ADM\Desktop\Conversor\Conversor\bin\Debug\Conversor.exe
+C:\Users\ADM\Desktop\Conversor\Conversor\bin\Debug\Conversor.pdb
+C:\Users\ADM\Desktop\Conversor\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\Conversor\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\ADM\Desktop\Conversor\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\Users\ADM\Desktop\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\Conversor\Conversor\obj\Debug\Conversor.exe
+C:\Users\ADM\Desktop\Conversor\Conversor\obj\Debug\Conversor.pdb
+C:\Users\ADM\Desktop\Conversor\Conversor\obj\Debug\Conversor.Conversor.resources

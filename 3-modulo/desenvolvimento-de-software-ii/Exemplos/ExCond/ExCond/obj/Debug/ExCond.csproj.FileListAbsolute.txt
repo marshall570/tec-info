@@ -1,0 +1,6 @@
+C:\Users\ADM\Desktop\ExCond\ExCond\bin\Debug\ExCond.exe.config
+C:\Users\ADM\Desktop\ExCond\ExCond\bin\Debug\ExCond.exe
+C:\Users\ADM\Desktop\ExCond\ExCond\bin\Debug\ExCond.pdb
+C:\Users\ADM\Desktop\ExCond\ExCond\obj\Debug\ExCond.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\ExCond\ExCond\obj\Debug\ExCond.exe
+C:\Users\ADM\Desktop\ExCond\ExCond\obj\Debug\ExCond.pdb

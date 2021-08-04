@@ -1,0 +1,7 @@
+J:\ETEC 3º MOD\DS II\Ex02\Ex02\bin\Debug\Ex02.exe.config
+J:\ETEC 3º MOD\DS II\Ex02\Ex02\bin\Debug\Ex02.exe
+J:\ETEC 3º MOD\DS II\Ex02\Ex02\bin\Debug\Ex02.pdb
+J:\ETEC 3º MOD\DS II\Ex02\Ex02\obj\Debug\Ex02.csproj.CoreCompileInputs.cache
+J:\ETEC 3º MOD\DS II\Ex02\Ex02\obj\Debug\Ex02.exe
+J:\ETEC 3º MOD\DS II\Ex02\Ex02\obj\Debug\Ex02.pdb
+J:\ETEC 3º MOD\DS II\Ex02\Ex02\obj\Debug\Ex02.csprojAssemblyReference.cache

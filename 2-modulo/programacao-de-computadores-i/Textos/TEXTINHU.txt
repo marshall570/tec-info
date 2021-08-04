@@ -1,0 +1,118 @@
+				 ==========
+				 OPERADORES
+			     ==========
+              
+			   
+	+-------------------------------+				
+	 Operadores Aritméticos Binários
+	+-------------------------------+
+São operadores que precisam de 2 ou mais variáveis
+para poderem processar a informação
+EX: +   -   *   /
+
+
+	+----------+
+	 Operador %
+	+----------+
+O operador % irá devolver o RESTO (SEMPRE INTEIRO) da
+divisão
+
+
+	+------------------------------+				
+	 Operadores Aritméticos Unários
+	+------------------------------+
+São operadores que utilizam apenas 1 operador
+processarem as informações.
+EX: ++ (incremento)
+    -- (Decremento)
+	
+	
+            Operador INCRMENTO
+======================|=======================
+    PÓS INCREMENTO    |    PRÉ INCREMENTO    | 
+======================|=======================	
+int x=2               |                      |
+X++	<--- X=X+1        |                      |
+                      |                      |
+           3          |             5        |
+System.out(X++ +2)    |  System.out(X++ +2)  |
+System.out.print(X=4) |  System.out(X=7)     |
+                      |                      |
+======================|=======================
+
+
+            Operador DECREMENTO
+======================|=======================
+    PÓS DECREMENTO    |    PRÉ DECREMENTO    | 
+======================|=======================	
+int x=2               |                      |
+X--	<--- X=X-1        |                      |
+                      |                      |
+           1          |                      |
+System.out(X-- +2)    |  System.out(X++ +2)  |
+System.out.print(X=4) |  System.out(X=2)     |
+                      |                      |
+======================|=======================
+
+
+
+	+------------------------+				
+     Operadores de Atribuição
+	+------------------------+
+Processar um número qualquer à variável
+Ex: += ---> x+=y -> x=x+y 
+    -= ---> x-=y -> x=x-y 
+    *= ---> x*=y -> x=x*y 
+    /= ---> x/=y -> x=x/y
+
+	
+	+------------------------+				
+     Operadores de Comparação
+	+------------------------+
+Usado quando quer se comparar 2 ou mais expressões.
+Também são conhecidos como OPERADORES RELACIONAIS
+Ex: >  Maior
+    >= Maior ou igual
+    <  Menor
+    <= Menor ou igual
+    == Igual
+    != Não-igual
+
+
+	+------------------+				
+     Operadores Lógicos
+	+------------------+
+Estabelecem relações entre operações lógicas
+Ex: && ---> E
+    || ---> Ou
+	!  ---> Não
+	^  ---> Xor (Ou exclusivo)
+	
+	================================================
+	|  X  |  Y  |  And  |  Or  |  !X  |  !Y  |  ^  |
+	================================================
+    |  T  |  T  |   T   |   T  |  F   |   F  |  F  |
+    ------------------------------------------------	
+    |  T  |  F  |   F   |   T  |  F   |   T  |  T  |
+    ------------------------------------------------	
+    |  F  |  T  |   F   |   T  |  T   |   F  |  T  |
+    ------------------------------------------------	
+    |  F  |  F  |   F   |   F  |  T   |   T  |  F  |
+    ================================================	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

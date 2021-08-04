@@ -1,0 +1,10 @@
+C:\Users\ADM\Desktop\Senha\Senha\obj\Debug\Senha.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\Senha\Senha\obj\Debug\Senha.FrmSenha.resources
+C:\Users\ADM\Desktop\Senha\Senha\obj\Debug\Senha.Properties.Resources.resources
+C:\Users\ADM\Desktop\Senha\Senha\obj\Debug\Senha.csproj.GenerateResource.cache
+C:\Users\ADM\Desktop\Senha\Senha\obj\Debug\Senha.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\Senha\Senha\bin\Debug\Senha.exe.config
+C:\Users\ADM\Desktop\Senha\Senha\bin\Debug\Senha.exe
+C:\Users\ADM\Desktop\Senha\Senha\bin\Debug\Senha.pdb
+C:\Users\ADM\Desktop\Senha\Senha\obj\Debug\Senha.exe
+C:\Users\ADM\Desktop\Senha\Senha\obj\Debug\Senha.pdb

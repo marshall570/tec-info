@@ -1,0 +1,11 @@
+/home/marshello/eclipse/Ex11/bin/Debug/netcoreapp2.2/Ex11.deps.json
+/home/marshello/eclipse/Ex11/bin/Debug/netcoreapp2.2/Ex11.runtimeconfig.json
+/home/marshello/eclipse/Ex11/bin/Debug/netcoreapp2.2/Ex11.runtimeconfig.dev.json
+/home/marshello/eclipse/Ex11/bin/Debug/netcoreapp2.2/Ex11.dll
+/home/marshello/eclipse/Ex11/bin/Debug/netcoreapp2.2/Ex11.pdb
+/home/marshello/eclipse/Ex11/obj/Debug/netcoreapp2.2/Ex11.csprojAssemblyReference.cache
+/home/marshello/eclipse/Ex11/obj/Debug/netcoreapp2.2/Ex11.csproj.CoreCompileInputs.cache
+/home/marshello/eclipse/Ex11/obj/Debug/netcoreapp2.2/Ex11.AssemblyInfoInputs.cache
+/home/marshello/eclipse/Ex11/obj/Debug/netcoreapp2.2/Ex11.AssemblyInfo.cs
+/home/marshello/eclipse/Ex11/obj/Debug/netcoreapp2.2/Ex11.dll
+/home/marshello/eclipse/Ex11/obj/Debug/netcoreapp2.2/Ex11.pdb

@@ -1,0 +1,6 @@
+C:\Users\ADM\Desktop\Ex09\Ex09\bin\Debug\Ex09.exe.config
+C:\Users\ADM\Desktop\Ex09\Ex09\bin\Debug\Ex09.exe
+C:\Users\ADM\Desktop\Ex09\Ex09\bin\Debug\Ex09.pdb
+C:\Users\ADM\Desktop\Ex09\Ex09\obj\Debug\Ex09.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\Ex09\Ex09\obj\Debug\Ex09.exe
+C:\Users\ADM\Desktop\Ex09\Ex09\obj\Debug\Ex09.pdb

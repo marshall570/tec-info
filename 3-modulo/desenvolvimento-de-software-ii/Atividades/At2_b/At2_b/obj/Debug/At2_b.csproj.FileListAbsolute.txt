@@ -1,0 +1,7 @@
+C:\Users\ADM\Desktop\At2_b\At2_b\bin\Debug\At2_b.exe.config
+C:\Users\ADM\Desktop\At2_b\At2_b\bin\Debug\At2_b.exe
+C:\Users\ADM\Desktop\At2_b\At2_b\bin\Debug\At2_b.pdb
+C:\Users\ADM\Desktop\At2_b\At2_b\obj\Debug\At2_b.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\At2_b\At2_b\obj\Debug\At2_b.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\At2_b\At2_b\obj\Debug\At2_b.exe
+C:\Users\ADM\Desktop\At2_b\At2_b\obj\Debug\At2_b.pdb

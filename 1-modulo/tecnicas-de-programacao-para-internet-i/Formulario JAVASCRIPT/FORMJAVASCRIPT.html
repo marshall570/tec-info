@@ -1,0 +1,63 @@
+ <html>
+ <head>
+ <title>VALIDANDO COM JAVASCRIPT</title>
+ <script language="Javascript" type="text/javascript"; charset="utf-8">
+ function validar() {
+ var nome = form1.nome.value;
+ var email = form1.email.value;
+ var senha = form1.senha.value;
+ var repsenha = form1.repsenha.value;
+ 
+ if (nome == "") {
+ alert('Preencha o campo com seu nome');
+ form1.nome.focus();
+ return false;
+ }
+ 
+ if (email == "") {
+ alert('Preencha o campo com seu email');
+ form1.email.focus();
+ return false;
+ }
+ 
+ if (senha == "") {
+ alert('Preencha o campo com uma senha');
+ form1.senha.focus();
+ return false;
+ }
+ 
+ if (repsenha == "") {
+ alert('Repita a senha');
+ form1.repsenha.focus();
+ return false;
+ }
+ 
+ if (nome.length < 5) {
+ alert('Digite seu nome completo');
+ form.nome.focus();
+ return false;
+ }
+ 
+ if (senha != repsenha) {
+ alert('Senhas diferentes');
+ form1.senha.focus();
+ return false;
+ }
+}
+</script>
+</head>
+<body text="White" background="Glitch TTS blur.jpg" topmargin="200" leftmargin="50"; charset="utf-8">
+<form align="center" name="form1" action="enviar.php" method="post">
+<b>BEM-VINDO A SADBOYS.NET, PREENCHA SEU CADASTRO!</b><br /><br /><br />
+NOME:
+<input name="nome" type="text"><br /><br />
+E-MAIL:
+<input name="email" type="text"><br /><br />
+SENHA:
+<input name="senha" type="password"><br /><br />
+REPETIR A SENHA:
+<input name="repsenha" type="password"><br /><br />
+<input type="submit" onclick="return validar()">
+</form>
+</body>
+</html> 
