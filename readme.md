@@ -3,37 +3,32 @@ Este reposítório é dedicado aos arquivos e projetos que realizei durante o Cu
 
 # 📚 GRADE DO CURSO
 ## 1º MÓDULO (02/2018 - 07/2018)
-- LÓGICA DE PROGRAMAÇÃO
-- TÉCNICAS DE PROGRAMAÇÃO PARA INTERNET I
-- TÉCNICAS DE LINGUAGENS PARA BANCO DE DADOS I
-- ANÁLISE DE SISTEMAS
-- GESTÃO DE SISTEMAS OPERACIONAIS I
-- OPERAÇÃO DE SOFTWARE APLICATIVO
-- INSTALAÇÃO E MANUTENÇÃO DE COMPUTADORES
-- INGLÊS
-- LINGUAGEM, TRABALHO E TECNOLOGIA
+- Lógica de Programação
+- Técnicas de Programação para Internet I
+- Técnicas de Linguagens para Bancos de Dados I
+- Análise de Sistemas
+- Gestão de Sistemas Operacionais I
+- Operação de Software Aplicativo
+- Instalação e Manutenção de Computadores
+- Inglês
+- Linguagem, Trabalho e Tecnologia
 
-## 2º MÓDULO (08/2018 - 12/2019)
-- TÉCNICAS DE ORIENTAÇÃO A OBJETOS
-- TÉCNICAS DE PROGRAMAÇÃO PARA INTERNET II
-- TÉCNICAS DE LINGUAGENS PARA BANCOS DE DADOS II
-- DESENVOLVIMENTO DE SOFTWARE I
-- PROGRAMAÇÃO DE COMPUTADORES I
-- GESTÃO DE SISTEMAS OPERACIONAIS II
-- EMPREENDEDORISMO E INOVAÇÃO
-- PLANEJAMENTO DE TCC
+## 2º MÓDULO (08/2018 - 12/2018)
+- Técnicas de Orientação à Objetos
+- Técnicas de Programação para Internet II
+- Técnicas de Linguagens para Bancos de Dados II
+- Desenvolvimento de Software I
+- Programação de Computadores I
+- Gestão de Sistemas Operacionais II
+- Empreendedorismo e Inovação
+- Planejamento de TCC
 
 ## 3º MÓDULO (02/2019 - 07/2019)
-- REDES DE COMUNICAÇÃO DE DADOS
-- TECNOLOGIAS PARA MOBILIDADE
-- TÉCNICAS DE LINGUAGENS PARA BANCOS DE DADOS III
-- DESENVOLVIMENTO DE SOFTWARE II
-- PROGRAMAÇÃO DE COMPUTADORES II
-- SEGURANÇA DIGITAL
-- ÉTICA E CIDADANIA ORGANIZACIONAL
-- DESENVOLVIMENTO DE TCC
-
-# ⚠️ AVISOS
-Só tem um aviso:
-
-## SEM JULGAMENTOS AQUI, PLEASE
+- Redes de Comunicação de Dados
+- Tecnologias para Mobilidade
+- Técnicas de Linguagens para Bancos de Dados III
+- Desenvolvimento de Software II
+- Programação de Computadores II
+- Segurança Digital
+- Ética e Cidadania Organizacional
+- Desenvolvimento de TCC
